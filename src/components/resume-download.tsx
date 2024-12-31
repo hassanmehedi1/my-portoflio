@@ -11,7 +11,7 @@ export default function ResumeDownload() {
   const { isDownloading, downloadResume } = useResumeDownload();
 
   return (
-    <div className="flex items-center justify-center bg-white">
+    <div className="flex items-center justify-center">
       <Button
         variant="ghost"
         type="button"
@@ -20,7 +20,7 @@ export default function ResumeDownload() {
         onClick={downloadResume}
         disabled={isDownloading}
       >
-        <Download className="h-[1.2rem] w-[1.2rem] text-neutral-800 dark:hidden dark:text-neutral-200" />
+        <Download className="h-[1.2rem] w-[1.2rem] text-neutral-800 dark:text-neutral-200" />
       </Button>
     </div>
   );
