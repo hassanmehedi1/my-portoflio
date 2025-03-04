@@ -83,7 +83,7 @@ export const DATA = {
       location: "On-Site",
       title: "Software Developer",
       logoUrl: "/acote.jpg",
-      start: "December 2024",
+      start: "September 2024",
       end: "Present",
       description:
         "I was recently promoted to Software Developer at Acote Group, marking a significant milestone in my career. This promotion reflects my growth, contributions to successful projects, and dedication to delivering high-quality solutions. I look forward to taking on more responsibilities and continuing to excel in my role.",
@@ -96,7 +96,7 @@ export const DATA = {
       title: "Jr. Software Developer",
       logoUrl: "/acote.jpg",
       start: "September 2023",
-      end: "November 2024",
+      end: "August 2024",
       description:
         "As a Junior Software Developer at Acote Group, I’ve been contributing to the development of production-ready web applications, including e-commerce platforms, ERP solutions, CMS, admin dashboards, HRM systems, and more, for over a year. Collaborating with experienced mentors, I’ve enhanced my expertise in building scalable frontend and backend systems while learning advanced development practices. Additionally, I’ve taken on the responsibility of guiding junior developers, fostering teamwork, and ensuring high-quality deliverables. This role has sharpened my technical and leadership skills, making me a more confident and versatile developer.",
     },
